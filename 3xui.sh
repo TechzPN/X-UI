@@ -1,6 +1,6 @@
 #!/bin/bash
 apt-get update -y
-bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/X-UI-VH/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/TechzPN/X-UI/master/installxui.sh)
 ufw allow 54321
 ufw allow 443
 ufw allow 80
@@ -30,7 +30,7 @@ echo "    ──────▀█▓▓▒▓▓█▀  "
 echo "    ────────▀█▓█▀  "
 echo "    ──────────▀  "
 echo " Nếu AE bị lổi mất lệnh x-ui thì hãy copy dòng sau dán vào và enter là ok "
-echo " bash <(curl -Ls https://raw.githubusercontent.com/TranCuongQ4/X-UI/master/install.sh) "
+echo " bash <(curl -Ls https://raw.githubusercontent.com/TechzPN/X-UI/master/installxui.sh) "
 echo " "
 echo "                                     ░░░░░░░░███████████████░░░░░░░░  "
 echo "                                     ░░░░░█████████████████████░░░░░  "
