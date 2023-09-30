@@ -3,6 +3,9 @@
 # Cài đặt & nâng cấp
 
 ```
+apt update
+```
+```
 bash <(curl -Ls https://raw.githubusercontent.com/TechzPN/X-UI/main/install.sh)
 ```
 
